@@ -1,0 +1,2 @@
+#Note
+Measurements made based on supply readout on a linear bench supply operating in constant current mode. Measurements were made with progressively increasing supply current and no external heat-sinking for the LEDs. They seem to have a substantial thermal coefficient, re-measuring at a lesser current after allowing the LEDs to be heated by substantially greater supply currents produced appreciable deviations from the included measurements.
