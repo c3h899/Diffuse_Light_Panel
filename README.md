@@ -9,7 +9,7 @@
  - Cover the aperture with 2 layers of diffusion material.
  - Result will consume 10-ft total length of LED strip lighting.
 
-## Future revisions
+## Future Revisions
  - Future implementations should consider these changes for an improved product.
  - Dimmers use 10k (Ohm) multi-turn potentiometer. Depopulate and replace.
  - An externally mounted pair of potentiometers would improve the quality of life.
