@@ -49,8 +49,6 @@ F 4 "JB3030AWT-P-U65EA0000-N0000001" V 6100 2650 50  0001 C CNN "Note"
 	1    6100 2650
 	0    -1   -1   0   
 $EndComp
-Text Notes 4950 1600 0    50   ~ 0
-CRI: 90\nVf:  2.8 V\nI+:  240 mA\nEta: 137 lm/W\n(Est) 3069 lm/A [CC]\n
 Text Notes 7050 1600 0    50   ~ 0
 CRI: 90\nVf:  6.0 V\nI+:  200 mA\nEta: 124 lm/W\n(Est) 2976 lm/A [CC]
 Text Notes 6000 1600 0    50   ~ 0
@@ -679,4 +677,8 @@ Wire Wire Line
 	7550 2000 7550 2100
 Text Notes 5000 6100 0    50   ~ 0
 06x 4R7\n08x 4000k\n14x 6500k\n16x 2700k\n
+Text Notes 4950 1600 0    50   ~ 0
+CRI: 90\nVf:  2.8 V\nI+:  240 mA\nEta: 137 lm/W\n(Est) 3069 lm/A [CC]\n
+Text Notes 5750 6000 0    50   ~ 0
+2700k - JB3030AWT-P-U27EA0000-N0000001\n4000k - JK3030AWT-P-U40EB0000-N0000001\n6500k - ‎JB3030AWT-P-U65EA0000-N0000001‎
 $EndSCHEMATC

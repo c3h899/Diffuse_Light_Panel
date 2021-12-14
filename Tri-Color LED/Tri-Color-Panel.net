@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:\\Users\\User\\Desktop\\Tri-Color LED\\Tri-Color-Panel\\Tri-Color-Panel.sch")
-    (date "11/26/2021 12:44:24 AM")
+    (source "C:\\Users\\User\\Desktop\\Tri-Color LED\\Tri-Color-Panel.sch")
+    (date "12/14/2021 12:06:54 PM")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref D1)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -26,7 +26,7 @@
       (tstamp 61A076BF))
     (comp (ref D31)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
@@ -35,7 +35,7 @@
       (tstamp 61A09F13))
     (comp (ref D17)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -44,7 +44,7 @@
       (tstamp 61A0A319))
     (comp (ref D2)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -53,7 +53,7 @@
       (tstamp 61A0CA9E))
     (comp (ref D3)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -62,7 +62,7 @@
       (tstamp 61A0D191))
     (comp (ref D4)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -71,7 +71,7 @@
       (tstamp 61A0D8FC))
     (comp (ref D5)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -80,7 +80,7 @@
       (tstamp 61A1471D))
     (comp (ref D6)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -89,7 +89,7 @@
       (tstamp 61A147CC))
     (comp (ref D7)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -98,7 +98,7 @@
       (tstamp 61A147D7))
     (comp (ref D8)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -107,7 +107,7 @@
       (tstamp 61A147E2))
     (comp (ref D18)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -116,7 +116,7 @@
       (tstamp 61A1E481))
     (comp (ref D19)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -125,7 +125,7 @@
       (tstamp 61A1F930))
     (comp (ref D20)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -134,7 +134,7 @@
       (tstamp 61A209CD))
     (comp (ref D21)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -143,7 +143,7 @@
       (tstamp 61A2131E))
     (comp (ref D22)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -152,7 +152,7 @@
       (tstamp 61A2295F))
     (comp (ref D23)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -161,7 +161,7 @@
       (tstamp 61A233D6))
     (comp (ref D32)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
@@ -170,7 +170,7 @@
       (tstamp 61A24081))
     (comp (ref D33)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
@@ -179,7 +179,7 @@
       (tstamp 61A24A0E))
     (comp (ref D34)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
@@ -188,7 +188,7 @@
       (tstamp 61A258B1))
     (comp (ref D9)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -197,7 +197,7 @@
       (tstamp 61A35F45))
     (comp (ref D10)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -206,7 +206,7 @@
       (tstamp 61A35F8C))
     (comp (ref D11)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -215,7 +215,7 @@
       (tstamp 61A35F97))
     (comp (ref D12)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -224,7 +224,7 @@
       (tstamp 61A35FA2))
     (comp (ref D13)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -233,7 +233,7 @@
       (tstamp 61A35FAD))
     (comp (ref D14)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -242,7 +242,7 @@
       (tstamp 61A35FB8))
     (comp (ref D15)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -251,7 +251,7 @@
       (tstamp 61A35FC3))
     (comp (ref D16)
       (value 2700k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U27EA0000-N0000001))
@@ -260,7 +260,7 @@
       (tstamp 61A35FCE))
     (comp (ref D24)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -269,7 +269,7 @@
       (tstamp 61A3B38B))
     (comp (ref D25)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -278,7 +278,7 @@
       (tstamp 61A3B6B6))
     (comp (ref D26)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -287,7 +287,7 @@
       (tstamp 61A3B6C1))
     (comp (ref D27)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -296,7 +296,7 @@
       (tstamp 61A3B6CC))
     (comp (ref D28)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -305,7 +305,7 @@
       (tstamp 61A3B6D7))
     (comp (ref D29)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -314,7 +314,7 @@
       (tstamp 61A3B6E2))
     (comp (ref D30)
       (value 6500k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JB3030AWT-P-U65EA0000-N0000001))
@@ -323,7 +323,7 @@
       (tstamp 61A3B6ED))
     (comp (ref D35)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
@@ -332,7 +332,7 @@
       (tstamp 61A3EE5E))
     (comp (ref D36)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
@@ -341,7 +341,7 @@
       (tstamp 61A3F231))
     (comp (ref D37)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
@@ -350,7 +350,7 @@
       (tstamp 61A3F23C))
     (comp (ref D38)
       (value 4000k)
-      (footprint Diode_SMD:D_1210_3225Metric_Pad1.42x2.65mm_HandSolder)
+      (footprint LED_Cust:LED_CREE_J_3030)
       (datasheet ~)
       (fields
         (field (name Note) JK3030AWT-P-U40EB0000-N0000001))
